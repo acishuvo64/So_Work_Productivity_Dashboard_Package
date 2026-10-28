@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#6C5DD3"
+backgroundColor = "#F4F6FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1f2333"
+font = "sans serif"
+
+[client]
+toolbarMode = "viewer"      # hides Edit / Deploy / menu for visitors
+showErrorDetails = false    # visitors never see code in errors
+
+[server]
+runOnSave = false
